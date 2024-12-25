@@ -2,6 +2,9 @@
 
 This is a custom web browser application developed as part of the **F20SC Industrial Programming** course. The application, built using **.NET C#** and **Windows Forms**, provides essential browsing functionalities, including navigation, history tracking, bookmark management, and bulk downloading. Designed with a layered architecture, it is scalable, user-friendly, and efficient for personal use on **Windows 11**.
 
+Developed by:
+- Minha Fathima Avoor
+
 ---
 
 ## 🚀 Features
