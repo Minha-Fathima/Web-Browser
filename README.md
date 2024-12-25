@@ -72,7 +72,8 @@ Developed by:
 
 ## 🧑‍💻 Installation and Usage
 
-The application offers a simple Browser GUI. For a detailed guide on application usage see here.
+The application offers a simple Browser GUI. For a detailed guide on application usage see [User Guide](User-Guide.md).
+.
 
 ---
 
