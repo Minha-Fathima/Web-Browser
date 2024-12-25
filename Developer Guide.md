@@ -99,4 +99,4 @@ This guide explains the organization, design, and technologies behind the web br
 - Introduce additional customization options for themes or layouts.
 - Implement automated testing for the entire application.
 
-For further details or questions, contact the project maintainer at [your-email@example.com].
+For further details or questions, contact the project maintainer at avoorminha@gmail.com.
